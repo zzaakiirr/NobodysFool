@@ -1,3 +1,10 @@
+*{
+	font-family: Georgia, serif;
+}
+.wrapper{
+	margin-left: 1.25rem;
+	margin-right: 1.25rem;
+}
 .topBar .button{
 	border: none;
 	background-color: #2e2e2e;
@@ -13,10 +20,10 @@ header i{
 	font-size: 0.75em;
 }
 .topBar .level-left{
-	margin-left: 0.75em;
+	margin-left: 1.25em;
 }
 .topBar .level-right{
-	margin-right: 0.75em;
+	margin-right: 1.25em;
 }
 .topBar.level{
 	background-color: #2e2e2e;
