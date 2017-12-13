@@ -1,23 +1,27 @@
-header .button{
+.topBar .button{
 	border: none;
 	background-color: #2e2e2e;
 }
-header .button span{
+.topBar .button span{
 	margin-right: -0.88em;
 	margin-left: -0.4em;
 }
 header i{
 	color: #787878;
 }
-header .level-left p{
+.topBar .level-left p{
 	font-size: 0.75em;
 }
-header .level-left{
+.topBar .level-left{
 	margin-left: 0.75em;
 }
-header .level-right{
+.topBar .level-right{
 	margin-right: 0.75em;
 }
-header.level{
+.topBar.level{
 	background-color: #2e2e2e;
 }
+.topBar .level-right .level-item{
+	margin: 0.3em 0;
+}
+.topBar
