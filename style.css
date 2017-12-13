@@ -4,3 +4,7 @@ header .button{
 header i{
 	color: #787878;
 }
+
+header .level-left{
+	font-size: 0.75em;
+}
