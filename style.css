@@ -8,3 +8,6 @@ header i{
 header .level-left{
 	font-size: 0.75em;
 }
+header.level{
+	background-color: #2e2e2e;
+}
