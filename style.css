@@ -1,12 +1,22 @@
 header .button{
 	border: none;
+	background-color: #2e2e2e;
+}
+header .button span{
+	margin-right: -0.88em;
+	margin-left: -0.4em;
 }
 header i{
 	color: #787878;
 }
-
-header .level-left{
+header .level-left p{
 	font-size: 0.75em;
+}
+header .level-left{
+	margin-left: 0.75em;
+}
+header .level-right{
+	margin-right: 0.75em;
 }
 header.level{
 	background-color: #2e2e2e;
