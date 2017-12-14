@@ -31,4 +31,9 @@ header i{
 .topBar .level-right .level-item{
 	margin: 0.3em 0;
 }
-.topBar
+.searchTitle{
+	margin-left: -0.8rem;
+}
+.searchForm, .searchButton{
+	margin-top: 1rem;
+}
