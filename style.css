@@ -1,9 +1,11 @@
 *{
 	font-family: Georgia, serif;
 }
-.wrapper{
-	margin-left: 1.25rem;
-	margin-right: 1.25rem;
+header i{
+	color: #787878;
+}
+.topBar.level{
+	background-color: #2e2e2e;
 }
 .topBar .button{
 	border: none;
@@ -12,9 +14,6 @@
 .topBar .button span{
 	margin-right: -0.88em;
 	margin-left: -0.4em;
-}
-header i{
-	color: #787878;
 }
 .topBar .level-left p{
 	font-size: 0.75em;
@@ -25,11 +24,12 @@ header i{
 .topBar .level-right{
 	margin-right: 1.25em;
 }
-.topBar.level{
-	background-color: #2e2e2e;
-}
 .topBar .level-right .level-item{
 	margin: 0.3em 0;
+}
+.wrapper{
+	margin-left: 1.25rem;
+	margin-right: 1.25rem;
 }
 .navTab{
 	margin-right: -0.1em;
