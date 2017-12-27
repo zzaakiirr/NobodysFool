@@ -37,6 +37,15 @@ header i{
 .searchBlock{
 	margin-top: 0.6rem;
 }
+.textBlock a.button{
+	margin-top: 1.25rem; 
+}
+.slider{
+	margin-top: 2.8rem;
+	background-color: #f1f1f1;
+	border-top: 5px solid #e9e9e9;
+	border-bottom: 5px solid #e9e9e9;
+}
 .textBlock{
 	margin: auto;
 }
