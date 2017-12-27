@@ -66,6 +66,12 @@ header i{
 .shout .buttonBlock{
 	margin: auto;
 }
+.shout h1{
+	font-size: 4vh;
+}
+.shout h1, .shout h2{
+	margin-left: 1.875rem;
+}
 .shout a{
 	font-size: 1.625rem;
 }
