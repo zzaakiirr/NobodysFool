@@ -56,3 +56,16 @@ header i{
 .intro .user .subtitle{
 	color: #0099ff;
 }
+.wrapper1{
+	margin: 0 2rem;
+}
+.shout{
+	background-color: #e0e0e0;
+	border-left: 10px solid #0099ff;
+}
+.shout .buttonBlock{
+	margin: auto;
+}
+.shout a{
+	font-size: 1.625rem;
+}
