@@ -1,1 +1,1 @@
-to fix: button in right block go under background size
+to fix: button in right block go under background size; add left margin in shout block (for paragrapht)
