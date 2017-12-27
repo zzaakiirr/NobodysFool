@@ -1,0 +1,28 @@
+@media (min-width: 769px) 
+and (max-width: 845px){
+	.shout a{
+		font-size: 1.5rem;
+	}
+}
+@media (max-width: 768px){
+	.shout a{
+		margin-left: 1.875rem;
+	}
+}
+@media (max-width: 446px){
+	.shout h1, .shout h2{
+		margin-left: 0.3rem;
+	}
+	.shout a{
+		margin-left: 0.3rem;
+	}
+}
+@media (max-width: 359px){
+	.shout a{
+		font-size: 1.3rem;
+		margin-left: 0;
+	}
+	.shout h1, .shout h2{
+		margin-left: 0;
+	}
+}

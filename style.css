@@ -69,17 +69,9 @@ header i{
 .shout h1{
 	font-size: 4vh;
 }
-.shout a{
-		font-size: 1.625rem;
-	}
-@media (max-width: 359px){
-	.shout a{
-		font-size: 1.3rem;
-	}
+.shout h1, .shout h2{
+	margin-left: 1.875rem;
 }
-@media (min-width: 769px) 
-and (max-width: 845px){
-	.shout a{
-		font-size: 1.5rem;
-	}
-} 
+.shout a{
+	font-size: 1.625rem;
+}
