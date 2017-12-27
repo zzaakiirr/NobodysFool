@@ -66,6 +66,20 @@ header i{
 .shout .buttonBlock{
 	margin: auto;
 }
- .shout h1{
-	font-size: 10vh;
+.shout h1{
+	font-size: 4vh;
+}
+.shout a{
+		font-size: 1.625rem;
+	}
+@media (max-width: 359px){
+	.shout a{
+		font-size: 1.3rem;
+	}
+}
+@media (min-width: 769px) 
+and (max-width: 845px){
+	.shout a{
+		font-size: 1.5rem;
+	}
 } 
