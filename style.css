@@ -70,9 +70,10 @@ header i{
 	font-size: 1.625rem;
 }
 footer .level-item{
-	margin: 0.75rem 0;
+	padding: 0.75rem 0;
 }
 footer p{
+	white-space: pre;
 	font-size: 0.75rem;
 	color: #666;
 }
