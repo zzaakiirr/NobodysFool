@@ -49,3 +49,10 @@ header i{
 .textBlock{
 	margin: auto;
 }
+.intro .user p:nth-child(3){
+	font-size: 0.8125rem;
+	color: #666;
+}
+.intro .user .subtitle{
+	color: #0099ff;
+}
