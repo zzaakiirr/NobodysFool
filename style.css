@@ -49,3 +49,6 @@ header i{
 .textBlock{
 	margin: auto;
 }
+.intro .has-text-centered p:nth-child(3){
+	font-size: 0.8125rem;
+}
