@@ -46,7 +46,10 @@ header i{
 	border-top: 5px solid #e9e9e9;
 	border-bottom: 5px solid #e9e9e9;
 }
-.textBlock{
+.slider .textBlock{
+	margin: auto;
+}
+.slider .imgBlock{
 	margin: auto;
 }
 .intro .user p:nth-child(3){
