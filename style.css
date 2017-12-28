@@ -75,3 +75,15 @@ header i{
 .shout a{
 	font-size: 1.625rem;
 }
+.feedback {
+	background-color: #1a1a1a;
+	padding: 1.2rem;
+	border-top: 5px solid black;
+}
+.wrapper2{
+	margin-top: 4rem;
+}
+.feedback_title{
+	padding-bottom: 1.25rem;
+	color: #fff;
+}
