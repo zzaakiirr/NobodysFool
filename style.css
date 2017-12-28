@@ -49,9 +49,6 @@ header i{
 .slider .textBlock{
 	margin: auto;
 }
-.slider .imgBlock{
-	margin: auto;
-}
 .intro .user p:nth-child(3){
 	font-size: 0.8125rem;
 	color: #666;
