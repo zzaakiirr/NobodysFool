@@ -87,3 +87,15 @@ header i{
 	padding-bottom: 1.25rem;
 	color: #fff;
 }
+.ul_list *{
+	border-bottom: 1px solid #232323;
+}
+.feedback_form input,
+.feedback_form textarea{
+	background-color: #232323;
+	border: none;
+}
+.feedback_form input::placeholder,
+.feedback_form textarea::placeholder{
+	color: #989898;
+}
