@@ -83,6 +83,13 @@ header i{
 .wrapper2{
 	margin-top: 4rem;
 }
+.ul_list{
+	margin-top: -0.25rem;
+}
+.feedback, .feedback .title, 
+.feedback .subtitle{
+	color: #666;
+}
 .feedback_title{
 	padding-bottom: 1.25rem;
 	color: #fff;
@@ -91,6 +98,8 @@ header i{
 	border-bottom: 1px solid #232323;
 	display: inline-block;
 	width: 100%;
+	margin-bottom: 0.25rem;
+	// font-size: 12px;
 }
 .feedback_form input,
 .feedback_form textarea{
@@ -100,4 +109,17 @@ header i{
 .feedback_form input::placeholder,
 .feedback_form textarea::placeholder{
 	color: #989898;
+	font-family: Georgia, serif;
+}
+.feedback .is-left p:nth-child(3){
+	margin-top: 0.7rem;
+}
+#read_more_button{
+	margin-top: 0.4rem;
+}
+.post p:nth-child(3){
+	margin-top: -0.4rem;
+}
+.postBlock .post p:nth-child(1){
+	margin-top: 0.5rem;
 }
