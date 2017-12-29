@@ -17,7 +17,7 @@ and (max-width: 845px){
 		margin-left: 0.3rem;
 	}
 }
-@media (max-width: 359px){
+@media (max-width: 380px){
 	.shout a{
 		font-size: 1.3rem;
 		margin-left: 0;
