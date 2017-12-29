@@ -87,8 +87,10 @@ header i{
 	padding-bottom: 1.25rem;
 	color: #fff;
 }
-.ul_list *{
+.ul_list span{
 	border-bottom: 1px solid #232323;
+	display: inline-block;
+	width: 100%;
 }
 .feedback_form input,
 .feedback_form textarea{
