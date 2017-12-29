@@ -5775,11 +5775,11 @@ a.dropdown-item.is-active {
   margin-bottom: 0;
 }
 
-@media screen and (max-width: 768px) {
+/* @media screen and (max-width: 768px) {
   .level-item:not(:last-child) {
     margin-bottom: 0.75rem;
   }
-}
+} */
 
 .level-left,
 .level-right {
@@ -5817,7 +5817,7 @@ a.dropdown-item.is-active {
 
 @media screen and (max-width: 768px) {
   .level-left + .level-right {
-    margin-top: 1.5rem;
+    margin-top: 0;
   }
 }
 

@@ -132,9 +132,18 @@ footer p{
 }
 @media (max-width: 768px){
 	.level-left{
-	margin-left: 0;
+		margin-left: 0;
 	}
 	.level-right{
-	margin-right: 0;
+		margin-right: 0;
 	}
+	.level-item{
+		padding-top: 0.3rem;
+	}
+	footer .level-right{
+		margin-top: -0.8rem !important;
+	}
+}
+a:hover{
+	color: red;
 }
