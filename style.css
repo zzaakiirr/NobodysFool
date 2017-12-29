@@ -99,7 +99,6 @@ header i{
 	display: inline-block;
 	width: 100%;
 	margin-bottom: 0.25rem;
-	// font-size: 12px;
 }
 .feedback_form input,
 .feedback_form textarea{
@@ -111,7 +110,7 @@ header i{
 	color: #989898;
 	font-family: Georgia, serif;
 }
-.feedback .is-left p:nth-child(3){
+.feedback :first-child p:nth-child(3){
 	margin-top: 0.7rem;
 }
 #read_more_button{
@@ -120,6 +119,6 @@ header i{
 .post p:nth-child(3){
 	margin-top: -0.4rem;
 }
-.postBlock .post p:nth-child(1){
+.post :first-child{
 	margin-top: 0.5rem;
 }
