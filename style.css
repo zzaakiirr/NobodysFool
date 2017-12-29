@@ -149,3 +149,9 @@ footer p{
 		margin-top: -0.8rem !important;
 	}
 }
+#linkedin .fa-stack:hover .fa-circle{
+	color: #0077B5;
+}
+#twitter .fa-stack:hover .fa-circle{
+	color: #00aced;
+}
