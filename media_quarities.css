@@ -1,4 +1,3 @@
-//media for shout block:
 @media (min-width: 769px) 
 and (max-width: 845px){
 	.shout a{
@@ -8,6 +7,19 @@ and (max-width: 845px){
 @media (max-width: 768px){
 	.shout a{
 		margin-left: 1.875rem;
+	}
+	.level-left{
+		margin-left: 0;
+	}
+	.level-right{
+		margin-right: 0;
+		padding-bottom: 0.3rem;
+	}
+	.level-item{
+		padding-top: 0.3rem;
+	}
+	footer .level-right{
+		margin-top: -0.8rem !important;
 	}
 }
 @media (max-width: 446px){
@@ -25,21 +37,5 @@ and (max-width: 845px){
 	}
 	.shout h1, .shout h2{
 		margin-left: 0;
-	}
-}
-//media for header & footer:
-@media (max-width: 768px){
-	.level-left{
-		margin-left: 0;
-	}
-	.level-right{
-		margin-right: 0;
-		padding-bottom: 0.3rem;
-	}
-	.level-item{
-		padding-top: 0.3rem;
-	}
-	footer .level-right{
-		margin-top: -0.8rem !important;
 	}
 }
