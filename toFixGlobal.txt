@@ -1,2 +1,0 @@
-1. May be don't use hero for columns
-2. Try to install centre position for all elements
