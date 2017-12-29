@@ -155,3 +155,12 @@ footer p{
 #twitter .fa-stack:hover .fa-circle{
 	color: #00aced;
 }
+#pinterest .fa-stack:hover .fa-circle{
+	color: #c8232c;
+}
+#google-plus .fa-stack:hover .fa-circle{
+	color: #d34836;
+}
+#rss .fa-stack:hover .fa-circle{
+	color: #f26522;
+}
