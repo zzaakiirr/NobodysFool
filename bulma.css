@@ -5815,11 +5815,11 @@ a.dropdown-item.is-active {
           justify-content: flex-start;
 }
 
-@media screen and (max-width: 768px) {
+/* @media screen and (max-width: 768px) {
   .level-left + .level-right {
-    margin-top: 0;
+    // margin-top: 0;
   }
-}
+} */
 
 @media screen and (min-width: 769px), print {
   .level-left {

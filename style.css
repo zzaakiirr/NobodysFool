@@ -136,6 +136,7 @@ footer p{
 	}
 	.level-right{
 		margin-right: 0;
+		padding-bottom: 0.3rem;
 	}
 	.level-item{
 		padding-top: 0.3rem;
