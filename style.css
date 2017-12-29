@@ -109,6 +109,10 @@ header i{
 .feedback_form textarea::placeholder{
 	color: #989898;
 	font-family: Georgia, serif;
+	opacity: 0.7;
+}
+.feedback_form input, .feedback_form textarea{
+	color: rgb(242, 242, 235);
 }
 .feedback :first-child p:nth-child(3){
 	margin-top: 0.7rem;
